@@ -11,3 +11,4 @@ function component() {
 
 document.body.appendChild(component());
 
+const newThing = 'new thing';
