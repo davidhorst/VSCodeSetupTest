@@ -11,4 +11,3 @@ function component() {
 
 document.body.appendChild(component());
 
-const getTest = 'gitTest';
